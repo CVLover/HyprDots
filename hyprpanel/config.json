@@ -1,0 +1,17 @@
+{
+  "bar.launcher.autoDetectIcon": true,
+  "theme.bar.buttons.dashboard.enableBorder": false,
+  "menus.clock.time.military": true,
+  "menus.clock.weather.location": "Stavanger",
+  "menus.clock.weather.unit": "metric",
+  "menus.dashboard.powermenu.avatar.image": "/home/speedygonzales/Downloads/CachyOS.svg",
+  "menus.dashboard.stats.enable_gpu": true,
+  "theme.bar.buttons.modules.updates.enableBorder": false,
+  "theme.matugen": true,
+  "wallpaper.image": "/home/speedygonzales/Wallpaper-Repo/wp7786785-5120x1440-wallpapers.jpg",
+  "wallpaper.pywal": true,
+  "theme.matugen_settings.mode": "dark",
+  "theme.matugen_settings.scheme_type": "tonal-spot",
+  "theme.matugen_settings.variation": "standard_1",
+  "theme.matugen_settings.contrast": 0
+}
